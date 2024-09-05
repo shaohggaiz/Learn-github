@@ -1,2 +1,2 @@
 # Learn-github
-(learn All js)
+(learn All js), { and keep well thinks}
