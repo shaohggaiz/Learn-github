@@ -1,2 +1,3 @@
 # Learn-github
-(learn All js), { and keep well thinks}
+(learn All js),
+(again setup a varivale)
